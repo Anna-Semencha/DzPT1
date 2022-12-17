@@ -7,7 +7,6 @@ resh = 0
 for i in range(n):
     coins.append(randint(0,1))
 print(coins)
-
 for i in coins:
     if i == 0:
         gerb += 1
